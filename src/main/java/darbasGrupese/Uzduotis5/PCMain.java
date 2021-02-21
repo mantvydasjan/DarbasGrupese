@@ -18,7 +18,6 @@ public class PCMain {
 
         PC pc = new PC(monitor1, processor1, gadget);
         System.out.println(pc);
-        System.out.println(pc);
 
     }
 }
